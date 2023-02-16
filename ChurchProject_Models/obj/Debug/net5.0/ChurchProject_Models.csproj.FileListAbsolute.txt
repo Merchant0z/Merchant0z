@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\bin\Debug\net5.0\ChurchProject_Models.deps.json
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\bin\Debug\net5.0\ChurchProject_Models.dll
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\bin\Debug\net5.0\ref\ChurchProject_Models.dll
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\bin\Debug\net5.0\ChurchProject_Models.pdb
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.dll
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ref\ChurchProject_Models.dll
+C:\Users\HP\Desktop\C# Projects\ChurchProject\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.pdb
+C:\Users\dell\Downloads\ChurchProject2.0\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.dll
+C:\Users\dell\Downloads\ChurchProject2.0\ChurchProject_Models\obj\Debug\net5.0\ChurchProject_Models.pdb
